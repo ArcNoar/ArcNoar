@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArcNoar
 
-- 🌱 I’m currently learning Python, Machine Learning, Aiogram, Sql
+- 🌱 I’m currently learning Python, Machine Learning, Aiogram, Sql, Django
 
 - 📫 How to reach me https://www.linkedin.com/in/дмитрий-тютюков-365b09216/
 
